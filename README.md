@@ -1,4 +1,4 @@
-# UserDirectory
+# Employeedirectory
 
   An app where you can view the full list of a company's employees, sort the list alphabetically, and filter the list by gender
 
@@ -33,4 +33,4 @@
 
   Screenshot: ![alt text](ProgressiveBudgetScreenshot.png)
 
-  https://github.com/bnicholson87/UserDirectory.git
+  https://github.com/bnicholson87/Employeedirectory.git
